@@ -1,4 +1,5 @@
 # TAREA REPOSITORIO
+de Raul Rubin
 ## 1. Tener una cuenta de Github
 > En primer lugar se debera de hacer la cuenta de Github, en mi caso ya la tengo creada.
 
